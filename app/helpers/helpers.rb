@@ -1,4 +1,4 @@
-require 
+require 'sinatra/base'
 
 class Helpers
   
